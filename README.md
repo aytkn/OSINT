@@ -38,15 +38,6 @@
 [https://gchq.github.io/CyberChef/#input=YXl0ZWtpbg](https://gchq.github.io/CyberChef/#input=YXl0ZWtpbg)  
 [https://www.cardscanner.co/tr/image-to-text](https://www.cardscanner.co/tr/image-to-text)  
 [https://tineye.com/](https://tineye.com/)  
-
-
-## Web Sayfa Kaynak Kod Analizi
-| Arama terimi       | Açıklama       |
-|----------------|----------------|
-| `<!--` | Yorumlar |
-| @ | e-mail adresleri |
-| ca-pub | Google Yayıncı Kimliği |
-| ua- | Google AdSense Kimliği|
 	
 	
 	
